@@ -10,8 +10,8 @@ The system uses JWT-based authentication to ensure secure access.
 - Handle patient data (name, age, gender, contact)
 - Separate roles for doctors and receptionists
 
-  # UI Link : https://golangpatient.netlify.app/
-  # Video Link : https://drive.google.com/file/d/1ctLRx_6jnTVYmabeP6cMxCQsX_O7zQd1/view?usp=sharing
+ ### UI Link : https://golangpatient.netlify.app/
+ ### Video Link : https://drive.google.com/file/d/1ctLRx_6jnTVYmabeP6cMxCQsX_O7zQd1/view?usp=sharing
 
 ## Prerequisites
 
